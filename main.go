@@ -36,6 +36,8 @@ func main() {
 	// To appeand method to the slice
 	// First msut be a slice(array) and then the elements to be appended
 
+	// Adding Comments
+
 }
 
 
